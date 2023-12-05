@@ -1,0 +1,9 @@
+# package
+
+streamlit
+pandas
+finance-datareader
+matplotlib
+plotly
+html5lib
+XlsxWriter
